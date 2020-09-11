@@ -19,7 +19,7 @@
 		<repository>
 			<id>nexus</id>
 			<name>nexus Repository</name>
-			<url>http://nexus.jq.cn/repository/maven-public/</url>
+			<url>http://nexus.top.mw/repository/maven-public/</url>
 		</repository>
 	</repositories>
 
@@ -27,7 +27,7 @@
 		<pluginRepository>
 			<id>nexus</id>
 			<name>nexus Repository</name>
-			<url>http://nexus.jq.cn/repository/maven-public/</url>
+			<url>http://nexus.top.mw/repository/maven-public/</url>
 		</pluginRepository>
 	</pluginRepositories>
 
