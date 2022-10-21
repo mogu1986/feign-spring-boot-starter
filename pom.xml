@@ -15,22 +15,6 @@
 
 	<name>feign-spring-boot-starter</name>
 
-	<repositories>
-		<repository>
-			<id>nexus</id>
-			<name>nexus Repository</name>
-			<url>http://nexus.top.mw/repository/maven-public/</url>
-		</repository>
-	</repositories>
-
-	<pluginRepositories>
-		<pluginRepository>
-			<id>nexus</id>
-			<name>nexus Repository</name>
-			<url>http://nexus.top.mw/repository/maven-public/</url>
-		</pluginRepository>
-	</pluginRepositories>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
